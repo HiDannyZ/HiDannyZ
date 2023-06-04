@@ -4,7 +4,6 @@
 [![Youtube: Hi Danny](https://img.shields.io/badge/Youtube-%23FF0000.svg?style=flat-square&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCaOxFnznl_Q1xVPV8gHEZ5A)
 
 My name is Danny. I'm currently live in NYC. I play games, watch anime, write code.
-
 - 👨‍💻 I code in: Python, Java, etc
 - 📫 How to reach me: The preferred way is email, but I also have Discord.
 - 🌱 I’m currently learning chinese because I want to able to read chinese and speak with my parents fluently!!
