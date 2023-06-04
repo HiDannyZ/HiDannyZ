@@ -1,7 +1,7 @@
 ### Hi there 👋
 [![Email: chdannyzhu@gmail.com](https://img.shields.io/badge/chdannyzhu@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:chdannyzhu@gmail.com)
 [![Discord: HiDanny#4780](https://img.shields.io/badge/HiDanny%239992-%237289DA.svg?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com)
-[![Youtube: Hi Danny](https://img.shields.io/badge/Youtube-%23FF0000.svg?style=flat-square&logo=YouTube&logoColor=white)]([https://www.youtube.com/channel/UCaOxFnznl_Q1xVPV8gHEZ5A](https://www.youtube.com/channel/UCaOxFnznl_Q1xVPV8gHEZ5A))
+[![Youtube: Hi Danny](https://img.shields.io/badge/Youtube-%23FF0000.svg?style=flat-square&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCaOxFnznl_Q1xVPV8gHEZ5A)
 
 My name is Danny. I'm currently live in NYC. I play games, watch anime, write code.
 
@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-https://www.youtube.com/channel/UCaOxFnznl_Q1xVPV8gHEZ5A
+
