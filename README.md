@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+My name is Danny. I'm currently live in NYC. I play games, watch anime, write code.
+
+👨‍💻 I code in: Python, Java, etc
+📫 How to reach me: The preferred way is email, but I also have Discord.
+🌱 I’m currently learning chinese because I want to able to read chinese and speak with my parents fluently!!
+🎮 What games do I play: League, AMQ, shooters, and random ones.
+🎵 What music I listen to: recently i have been listening to New Jeans and Yoasbi haha. 
+⚡ Fun fact: Yoasbi is my favorite music artist overall
+
 <!--
 **HiDannyZ/HiDannyZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
