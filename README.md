@@ -9,7 +9,7 @@ My name is Danny. I'm currently live in NYC. I play games, explore new things, a
 - 🌱 I’m currently learning chinese because I want to able to read chinese and speak with my parents fluently!!
 - 🎮 What games do I play: League, AMQ, shooters, and a bunch of random ones.
 - 🎵 What music I listen to: Mapletory Lofi to study and whatever's got my attention
-- ⚡ Fun fact: I really like exploring and experiencing new things!
+- ⚡ Fun fact: I'm a fan of New Jeans and Twice
 
 <!--
 **HiDannyZ/HiDannyZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
